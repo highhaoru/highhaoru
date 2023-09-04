@@ -5,6 +5,9 @@
 ## Hi there 👋
 
 I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating in hackathons.
+I will keep publishing projects on [my portfolio](https://highhaoru.github.io/).
+Feel free to take a visit.
+Thank you!
 
 ### 🧰 Languages and Tools
 
