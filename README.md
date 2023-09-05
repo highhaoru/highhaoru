@@ -8,6 +8,8 @@
 
 I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating in hackathons.
 
+[![Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=highhaoru&show_icons=true&theme=transparent)](https://github.com/highhaoru/github-readme-stats)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -30,7 +32,7 @@ I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating 
 
 #
 
-## 🔭 I’m currently working on 🧠
+## 🔭 I’m currently working on 
 <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
@@ -41,17 +43,16 @@ I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating 
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently learning 🧠
 - Kubernetes
 - GoLang
 
 ## 📫 How to reach me 📫
-- [Youtube](https://www.youtube.com/channel/UCdJkvAVdpVEH6diYGgq5g5w)
-- [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=highhaoru&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhighhaoru)](https://www.linkedin.com/in/hao-jin-love-programming/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=highhaoru&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhighhaoru)](https://www.linkedin.com/in/hao-jin-love-programming/)
 
+
+[//]: # (- [Youtube]&#40;https://www.youtube.com/channel/UCdJkvAVdpVEH6diYGgq5g5w&#41;)
 [//]: # (- [LinkedIn]&#40;https://www.linkedin.com/in/hao-jin-love-programming/&#41;)
-
-
 [//]: # (### Hi there 👋)
 
 <!--
