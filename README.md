@@ -4,12 +4,11 @@
 
 ## Hi there 👋
 
-I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating in hackathons.
-I will keep publishing projects on [my portfolio](https://highhaoru.github.io/).
-Feel free to take a visit.
-Thank you!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=highhaoru&label=Profile%20views&color=0e75b6&style=flat" alt="highhaoru" /> </p>
 
-## 🧰 Languages and Tools
+I'm Hao Jin, a full-stack developer. I love coding, blogging, and participating in hackathons.
+
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -31,14 +30,41 @@ Thank you!
 
 #
 
-## 🔭 I’m currently working on
-- Open-source contributions
-- My personal blog
+## 🔭 I’m currently working on 🧠
+<code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+<code><a href="https://docs.microsoft.com/tr-tr/dotnet/welcome" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://java.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://tr.wordpress.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
 ## 🌱 I’m currently learning
 - Kubernetes
 - GoLang
 
-## 📫 How to reach me
+## 📫 How to reach me 📫
 - [Youtube](https://www.youtube.com/channel/UCdJkvAVdpVEH6diYGgq5g5w)
-- [LinkedIn](https://www.linkedin.com/in/hao-jin-love-programming/)
+- [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=highhaoru&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhighhaoru)](https://www.linkedin.com/in/hao-jin-love-programming/)
+
+[//]: # (- [LinkedIn]&#40;https://www.linkedin.com/in/hao-jin-love-programming/&#41;)
+
+
+[//]: # (### Hi there 👋)
+
+<!--
+**highhaoru/highhaoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
